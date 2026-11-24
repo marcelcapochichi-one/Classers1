@@ -1,0 +1,29 @@
+body { 
+font-family: Arial;   
+ background-color: #b3beb28d;    
+ padding: 20px; 
+ margin: auto;
+ 
+} 
+ 
+ input {    
+    padding: 10px;   
+     margin: 5px;
+} 
+     
+button {    
+ padding: 10px;   
+  background-color: green;  
+ color: white;  
+   border-radius: 10px;    
+   cursor: pointer; 
+   margin-left: 20px ;
+}
+
+#listeEtudiants { 
+   background-color: white;    
+   padding: 20px;    
+   margin: 48px;
+   border-radius: 16px;
+   list-style: none;
+}
